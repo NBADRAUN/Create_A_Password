@@ -33,8 +33,7 @@ function generatePassword() {
                 LengthInput=0; 
             }
         }
-            console.log(LengthInput);        
-                 
+            console.log(LengthInput);                 
 }
 
 
@@ -126,60 +125,19 @@ function generatePassword() {
         return joined; 
         
     }
-        
+   
     
+    // // Assignment code here
 
-  
-
-    console.log(selections); 
-    
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// // Assignment code here
-
-// // Get references to the #generate element
+    // // Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
 
-// Write password to the #password input
+    // Write password to the #password input
 function writePassword() {
    var password = generatePassword();
    var passwordText = document.querySelector("#password");
    passwordText.value = password;
-
 }
-
-// // Add event listener to generate button
-generateBtn.addEventListener("click", writePassword); 
+    // // Add event listener to generate button
+    generateBtn.addEventListener("click", writePassword); 
 
