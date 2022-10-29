@@ -59,4 +59,4 @@ THEN the password is either displayed in an alert or written to the page
         <td valign="top">No Characters Selected Prompt:<br><img src="assets\Images\No_Characters_Selected_Error.PNG" width="300px" height="400px" alt="Picture of the page the user will get if they did not select any character options."> </td>
 </tr>
 <table> 
-        <td valign="top">Final Output:<br><img src="assets\Images\Final_Output.PNG" width="300px" height="400px" alt="Picture of the page for the user will see after they have answered all the prompts and the password has be returned into the text box."> </td>
+        <td valign="top">Final Output:<br><img src="assets\Images\Final_Output.PNG" width="165px" height="400px" alt="Picture of the page for the user will see after they have answered all the prompts and the password has be returned into the text box."> </td>
