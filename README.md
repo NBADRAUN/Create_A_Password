@@ -49,16 +49,14 @@ THEN the password is either displayed in an alert or written to the page
 ## Screenshots of Application
 <table>
     <tr>  
-        <td valign="top">Starting Page: <br><img src="/assets/Images/Create_A_Password.png" width="300px" height="400px" alt="Picture of the page before anything has been entered."> </td>
-        <td valign="top">Character Length Prompt:<br><img src="assets\Images\Length_Prompt.png" width="300px" height="400px" alt="Picture of the page for the user to enter the desired password length."> </td>
-        <td valign="top">Lower case Character Prompt:<br><img src="assets\Images\LowerCase_Prompt.png" width="300px" height="400px" alt="Picture of the page for the user to enter the if they want to include lowercase letters."> 
+        <td valign="top">Starting Page: <br><img src="assets\Images\Create_A_Password.PNG" width="300px" height="400px" alt="Picture of the page before anything has been entered."> </td>
+        <td valign="top">Character Length Prompt:<br><img src="assets\Images\Length_Prompt.PNG" width="300px" height="400px" alt="Picture of the page for the user to enter the desired password length."> </td>
+        <td valign="top">Lower case Character Prompt:<br><img src="assets\Images\LowerCase_Prompt.PNG" width="300px" height="400px" alt="Picture of the page for the user to enter the if they want to include lowercase letters."> 
     </tr>
 <table>
-        <td valign="top">Number Prompt:<br><img src="assets\Images\Numbers_Prompt.png" width="300px" height="400px" alt="Picture of the page for the user to enter the if they want to include numbers."> </td>
-        <td valign="top">Special Character Prompt:<br><img src="assets\Images\Special_Prompt.png" width="300px" height="400px" alt="Picture of the page for the user to enter the if they want to include special characters."> </td>
-        <td valign="top">No Characters Selected Prompt:<br><img src="assets\Images\No_Characters_Selected_Error.png" width="300px" height="400px" alt="Picture of the page the user will get if they did not select any character options."> </td>
+        <td valign="top">Number Prompt:<br><img src="assets\Images\Numbers_Prompt.PNG" width="300px" height="400px" alt="Picture of the page for the user to enter the if they want to include numbers."> </td>
+        <td valign="top">Special Character Prompt:<br><img src="assets\Images\Special_Prompt.PNG" width="300px" height="400px" alt="Picture of the page for the user to enter the if they want to include special characters."> </td>
+        <td valign="top">No Characters Selected Prompt:<br><img src="assets\Images\No_Characters_Selected_Error.PNG" width="300px" height="400px" alt="Picture of the page the user will get if they did not select any character options."> </td>
 </tr>
 <table> 
-        <td valign="top">Final Output:<br><img src="assets\Images\Final_Output.png" width="300px" height="400px" alt="Picture of the page for the user will see after they have answered all the prompts and the password has be returned into the text box."> </td>
-
-
+        <td valign="top">Final Output:<br><img src="assets\Images\Final_Output.PNG" width="300px" height="400px" alt="Picture of the page for the user will see after they have answered all the prompts and the password has be returned into the text box."> </td>
