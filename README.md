@@ -49,7 +49,7 @@ THEN the password is either displayed in an alert or written to the page
 ## Screenshots of Application
 <table>
     <tr>  
-        <td valign="top">Starting Page: <br><img src="assets/Images/Create_A_Password.png" width="300px" height="400px" alt="Picture of the page before anything has been entered."> </td>
+        <td valign="top">Starting Page: <br><img src="/assets/Images/Create_A_Password.png" width="300px" height="400px" alt="Picture of the page before anything has been entered."> </td>
         <td valign="top">Character Length Prompt:<br><img src="assets\Images\Length_Prompt.png" width="300px" height="400px" alt="Picture of the page for the user to enter the desired password length."> </td>
         <td valign="top">Lower case Character Prompt:<br><img src="assets\Images\LowerCase_Prompt.png" width="300px" height="400px" alt="Picture of the page for the user to enter the if they want to include lowercase letters."> 
     </tr>
